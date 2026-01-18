@@ -3,7 +3,6 @@
 **Live Demo:** ([https://product-dashboard-dv2v2cx8v-sylvias-projects-f0755037.vercel.app/products](https://product-dashboard-icl3bxriv-sylvias-projects-f0755037.vercel.app))
 A modern, responsive product management dashboard built with React, featuring advanced filtering, search, and CRUD operations.
 
-![Screenshot](./screenshot.png)
 
 ## Features
 
@@ -52,7 +51,7 @@ A modern, responsive product management dashboard built with React, featuring ad
 ##  Installation
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/product-dashboard.git
+git clone https://github.com/SylviaCUwa/product-dashboard.git
 cd product-dashboard
 
 # Install dependencies
@@ -142,7 +141,7 @@ src/
 
 ##  Deployment
 
-Deployed on Vercel: https://your-app.vercel.app
+Deployed on Vercel: ([https://product-dashboard-dv2v2cx8v-sylvias-projects-f0755037.vercel.app/products](https://product-dashboard-icl3bxriv-sylvias-projects-f0755037.vercel.app))
 
 To deploy your own:
 ```bash
@@ -156,13 +155,18 @@ vercel
 ##  Screenshots
 
 ### Desktop View
-![Desktop View](./screenshots/desktop.png)
+![Desktop View](./screenshots/desktop-list.png)
+![Desktop View](./screenshots/desktop-list1.png)
 
 ### Mobile View
-![Mobile View](./screenshots/mobile.png)
+![Mobile View](./screenshots/mobile-cards.png)
+![Mobile View](./screenshots/mobile-cards1.png)
 
 ### Filters
-![Filters](./screenshots/filters.png)
+![Filters](./screenshots/filters-active.png)
+
+### Product Details
+![Filters](./screenshots/product-details.png)
 
 ##  Assessment Requirements
 
