@@ -1,6 +1,6 @@
 # Product Dashboard
 
-**Live Demo:** (https://product-dashboard-dv2v2cx8v-sylvias-projects-f0755037.vercel.app/products)
+**Live Demo:** ([https://product-dashboard-dv2v2cx8v-sylvias-projects-f0755037.vercel.app/products](https://product-dashboard-icl3bxriv-sylvias-projects-f0755037.vercel.app))
 A modern, responsive product management dashboard built with React, featuring advanced filtering, search, and CRUD operations.
 
 ![Screenshot](./screenshot.png)
